@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Wisata Jogja</string>
+    <string name="wisata_name">Wisata Name</string>
+    <string name="wisata_description">Deskripsi Wisata</string>
+</resources>
